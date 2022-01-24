@@ -164,17 +164,7 @@ export default {
     },
     bigList() {
       const namelist = [
-        '毕勇',
-        '周小军',
-        '刘雪莉',
-        '李利',
-        '张华',
-        '韩宇',
-        '赵金标',
-        '张露',
-        '徐伟',
-        '朱苏州',
-        '赖新华'
+
       ];
       const a = [];
       namelist.forEach(item1 => {
