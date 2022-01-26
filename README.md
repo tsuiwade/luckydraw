@@ -13,7 +13,6 @@
 
 ![image-20220124165803965](https://gitee.com/tsuiwade/images/raw/master/image-20220124165803965.png)
 
-增加了zuobi程序，增大该人的票数。
 
 再通过https://www.cxyzjd.com/article/qq_41579104/107340431 用electron进行打包成exe文件。
 
